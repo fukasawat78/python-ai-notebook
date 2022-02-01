@@ -29,7 +29,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-data-science/
+  python-ml-notebooks/
     │
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
