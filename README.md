@@ -1,4 +1,4 @@
-python-data-science
+python-ml-notebooks
 ==================================
 
 ## Author
@@ -8,7 +8,7 @@ python-data-science
 
 <!-- code_chunk_output -->
 
-* [python-data-science]
+* [python-ml-notebooks]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
