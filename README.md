@@ -1,7 +1,7 @@
 python-data-science
 ==================================
 
-# Author
+## Author
 2022, Tatsuya Fukasawa
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
