@@ -1,4 +1,4 @@
-python-ml-notebooks
+python-notebook-example
 ==================================
 
 ## Author
@@ -8,7 +8,7 @@ python-ml-notebooks
 
 <!-- code_chunk_output -->
 
-* [python-ml-notebooks]
+* [python-notebook-example]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
@@ -29,7 +29,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-ml-notebooks/
+  python-notebook-example/
     │
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
