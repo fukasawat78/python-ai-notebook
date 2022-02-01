@@ -1,7 +1,7 @@
 from typing import List
 import numpy as np
 import pandas as pd
-from src.cat_encoder import *
+from src.categorical_encoders import *
 
 def target_transformer(
     df: pd.DataFrame,
@@ -14,7 +14,7 @@ def target_transformer(
         
     elif df[target].dtypes[0] == "float":
         
-        pass
+        df = variable_transformer(df, target, variable_type="power_transformer")
         
     else:
         raise ValueError('target_type must be either "category" or "float"')

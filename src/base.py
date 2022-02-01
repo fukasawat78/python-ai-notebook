@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-class BaseEstimator:
+class Base:
     
     def __init__(self):
         

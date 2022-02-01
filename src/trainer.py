@@ -1,13 +1,13 @@
 from typing import List
 import numpy as np
 import pandas as pd
-from src.base import BaseEstimator
+from src.base import Base
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, roc_auc_score
 
 # --------------------------------------
 # Trainer
 # --------------------------------------
-class Trainer(BaseEstimator):
+class Trainer(Base):
     
     def __init__(self, model, target, random_state):
         
