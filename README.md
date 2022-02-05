@@ -1,11 +1,6 @@
 python-data-science-notebooks
 ==================================
 
-## Author
-2022, fukasawat78
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
 <!-- code_chunk_output -->
 
 * [python-data-science-notebooks]
