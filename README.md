@@ -1,4 +1,4 @@
-python-notebook-example
+python-data-science-notebooks
 ==================================
 
 ## Author
@@ -8,7 +8,7 @@ python-notebook-example
 
 <!-- code_chunk_output -->
 
-* [python-notebook-example]
+* [python-data-science-notebooks]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
