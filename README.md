@@ -1,4 +1,4 @@
-python-data-science-notebooks
+simple-python-data-science
 ==================================
 
 <!-- code_chunk_output -->
