@@ -1,9 +1,9 @@
-simple-python-data-science
+python-data-science
 ==================================
 
 <!-- code_chunk_output -->
 
-* [python-data-science-notebooks]
+* [python-data-science]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
@@ -24,7 +24,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-notebook-example/
+  python-data-science/
     │
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
