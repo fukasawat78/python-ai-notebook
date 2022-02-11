@@ -1,8 +1,8 @@
-# python-data-science-notebook
+# python-ai-notebook
 
 <!-- code_chunk_output -->
 
-* [python-data-science-notebook]
+* [python-ai-notebook]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
@@ -23,7 +23,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-data-science-notebook/
+  python-ai-notebook/
     │
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
