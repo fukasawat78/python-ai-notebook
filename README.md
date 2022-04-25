@@ -1,4 +1,4 @@
-# python-ai-notebook
+# python-ai-notebook-examples
 
 <!-- code_chunk_output -->
 
