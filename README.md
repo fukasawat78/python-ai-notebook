@@ -1,8 +1,8 @@
-# python-ai-notebook-examples
+# python-notebook-examples
 
 <!-- code_chunk_output -->
 
-* [python-ai-notebook]
+* [python-notebook-examples]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
@@ -23,13 +23,13 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-ai-notebook/
+  python-notebook-examples/
     │
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
     ├── datasets   
     ├── src  
-    ├── mobile_price_classification.ipynb  
+    ├── notebook.ipynb  
     ├── docker-compose.yml
     ├── Dockerfile
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
