@@ -29,6 +29,7 @@ $ docker-compose up -d
     ├── config     
     ├── datasets   
     ├── src  
+    ├── tests
     ├── notebook.ipynb  
     ├── docker-compose.yml
     ├── Dockerfile
