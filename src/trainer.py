@@ -1,15 +1,19 @@
 from typing import List
 import numpy as np
 import pandas as pd
-from src.base import Base
+from src.base_trainer import BaseTrainer
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, roc_auc_score
 
 # --------------------------------------
 # Trainer
 # --------------------------------------
 class Trainer(Base):
+    """
+    Trainer class
+    """
     
     def __init__(self, model, target, random_state):
+        super().__init__()
         
         self.model = model
         self.target = target
