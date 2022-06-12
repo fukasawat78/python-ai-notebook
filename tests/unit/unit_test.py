@@ -54,9 +54,6 @@ def category_data_examples():
     })
 
 class TestCategoricalEncoders:
-    
-    def __init__(self):
-        pass
 
     def test_ordinal_encoder(self):
         
