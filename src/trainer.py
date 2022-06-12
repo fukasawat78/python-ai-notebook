@@ -7,7 +7,7 @@ from sklearn.metrics import confusion_matrix, classification_report, accuracy_sc
 # --------------------------------------
 # Trainer
 # --------------------------------------
-class Trainer(Base):
+class Trainer(BaseTrainer):
     """
     Trainer class
     """
