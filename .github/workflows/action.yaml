@@ -1,11 +1,11 @@
 name: Run pytest
 on: [push]
 
-jbos:
+jobs:
   pytest:
     runs-on: ubuntu-latest
     
-    stesp:
+    steps:
       # リポジトリをチェックアウト
       - name: Checkout
         uses: actions/checkout@v2
