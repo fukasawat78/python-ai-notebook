@@ -1,3 +1,7 @@
+numpy
+pandas
+matplotlib
+pytest
 feature-engine
 scikit-learn
 lightgbm
