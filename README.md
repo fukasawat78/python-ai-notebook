@@ -1,4 +1,4 @@
-# python-notebook-examples
+# simpoe-data-science-examples
 
 <!-- code_chunk_output -->
 
