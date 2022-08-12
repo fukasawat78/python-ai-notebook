@@ -2,6 +2,7 @@ from typing import List
 import numpy as np
 import pandas as pd
 from src.categorical_encoders import *
+from src.numerical_transformers import *
 
 def target_transformer(
     df: pd.DataFrame,

@@ -8,5 +8,6 @@ from .process_outliers import *
 from .data_splitting import *
 from .match_columns import *
 from .pipeline import *
+from .get_model import *
 from .trainer import *
 from .utils import *

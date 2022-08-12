@@ -1,7 +1,15 @@
 import numpy as np
 import pandas as pd
 from sklearn.metrics import adjusted_mutual_info_score
+import yaml
 
+def read_config(
+    config_path: str
+):
+    with open(config_path) as file:
+        config_file = yaml.safe_load(file)
+
+    return config_file
 
 def show_mutial_info(
     df: pd.DataFrame
