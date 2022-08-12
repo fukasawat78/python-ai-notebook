@@ -1,0 +1,5 @@
+Name,Value,Timestamp,Step
+"train__roc_auc",1.0,1660292833732,1
+"train__accuracy",1.0,1660292833732,1
+"test__roc_auc",0.98875,1660292833741,1
+"test__accuracy",0.9125,1660292833741,1

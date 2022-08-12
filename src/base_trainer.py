@@ -13,11 +13,3 @@ class BaseTrainer:
     @abstractmethod
     def fit(self):
         raise NotImplementedError
-    
-    @abstractmethod
-    def evaluate(self):
-        raise NotImplementedError
-    
-    @abstractmethod
-    def predict(self):
-        raise NotImplementedError
