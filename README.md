@@ -1,8 +1,8 @@
-# simpoe-data-science-examples
+# simple-data-science-examples
 
 <!-- code_chunk_output -->
 
-* [python-notebook-examples]
+* [simple-python-notebook-examples]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
