@@ -101,9 +101,9 @@ ENV/
 .mypy_cache/
 
 # input data, saved log, checkpoints
-data
-model
-logs
+data/*
+model/*
+logs/*
 
 # editor, os cache directory
 .vscode/
