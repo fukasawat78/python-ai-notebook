@@ -2,7 +2,7 @@
 
 <!-- code_chunk_output -->
 
-* [simple-python-notebook-examples]
+* [simple-data-science-examples]
 	* [Requirements](#requirements)
 	* [Usage](#how-to-run)
 	* [Organization](#organization)
@@ -23,7 +23,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  python-notebook-examples/
+  simple-data-science-examples/
     │
     ├── .gitignore
     ├── .dvcignore
