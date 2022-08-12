@@ -25,12 +25,16 @@ $ docker-compose up -d
   ```
   python-notebook-examples/
     │
+    ├── .gitignore
+    ├── .dvcignore
     ├── README.md           <- The top-level README for developers using this project.
     ├── config     
-    ├── datasets   
+    ├── data   
+    ├── model
+    ├── logs
+    ├── notebooks
     ├── src  
     ├── tests
-    ├── notebook.ipynb  
     ├── docker-compose.yml
     ├── Dockerfile
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
