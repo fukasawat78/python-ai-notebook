@@ -110,6 +110,3 @@ __MACOSX/
 # additional
 .DS_Store
 !.gitkeep
-
-/data
-/model
