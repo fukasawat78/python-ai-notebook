@@ -40,5 +40,16 @@ $ docker-compose up -d
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                               generated with `pip freeze > requirements.txt`
   ```
-  
+
+## DAGSHUB
+```
+fds add model data logs
+dvc add model
+
+dvc commit -f model.dvc
+git add model.dvc logs/metrics.csv logs/params.yml
+git commit -m ""
+```  
+
+
 ## Acknowledgements
