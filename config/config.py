@@ -1,4 +1,8 @@
+import logging
 import os
+from typing import Any, Dict, List, Optional, Tuple
+
+logger = logging.getLogger(__name__)
 
 # Path settings
 HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
