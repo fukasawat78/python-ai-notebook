@@ -5,3 +5,4 @@ pytest
 feature-engine
 scikit-learn
 lightgbm
+dagshub

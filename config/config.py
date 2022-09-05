@@ -4,11 +4,14 @@ from typing import Any, Dict, List, Optional, Tuple
 
 logger = logging.getLogger(__name__)
 
-# Path settings
-HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-CONF_DIR = os.path.join(HOME, "config")
-DATA_DIR = os.path.join(HOME, "data")
+class Constants:
+    
+    HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# seed
-SEED = 1234
+    CONF_DIR = os.path.join(HOME, "config")
+    DATA_DIR = os.path.join(HOME, "data")
+    DATASET_PATH = DATA_DIR + "/01_mobile_price_classification"
+
+    # seed
+    SEED = 1234
