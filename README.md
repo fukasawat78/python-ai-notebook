@@ -3,11 +3,10 @@
 
 <!-- code_chunk_output -->
 
-* [simple-data-science-examples]
-	* [Requirements](#requirements)
-	* [Usage](#how-to-run)
-	* [Organization](#organization)
-    * [Acknowledgements](#acknowledgements)
+* [Dependencies](#Dependencies)
+* [Docker for Jupyter Lab](#Docker for Jupyter Lab)
+* [Organization](#Organization)
+* [Acknowledgement](#Acknowledgement)
 
 <!-- /code_chunk_output -->
 
