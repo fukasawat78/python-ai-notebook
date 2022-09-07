@@ -1,5 +1,7 @@
 # simple-data-science-examples
 
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+
 <!-- code_chunk_output -->
 
 * [simple-data-science-examples]
