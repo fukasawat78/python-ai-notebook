@@ -1,10 +1,6 @@
 # Simple Data Science Example
 
 
-
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytorch-lightning)](https://pypi.org/project/pytorch-lightning/)
-[![Conda](https://img.shields.io/conda/v/conda-forge/pytorch-lightning?label=conda&color=success)](https://anaconda.org/conda-forge/pytorch-lightning)
-
 <!-- code_chunk_output -->
 
 * [simple-data-science-examples]
