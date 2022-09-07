@@ -4,7 +4,7 @@
 <!-- code_chunk_output -->
 
 * [Dependencies](#Dependencies)
-* [Docker for Jupyter Lab](#Docker for Jupyter Lab)
+* [JupyterLab](#JupyterLab)
 * [Organization](#Organization)
 * [Acknowledgement](#Acknowledgement)
 
@@ -15,7 +15,7 @@
 $ pip install -r requirements.txt
 ```
 
-## Docker for Jupyter Lab
+## JupyterLab
 ```
 $ docker-compose up -d
 ```
