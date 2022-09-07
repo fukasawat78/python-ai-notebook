@@ -1,6 +1,8 @@
-# simple-data-science-examples
+# Simple Data Science Example
+================================
 
-[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytorch-lightning)](https://pypi.org/project/pytorch-lightning/)
+[![Conda](https://img.shields.io/conda/v/conda-forge/pytorch-lightning?label=conda&color=success)](https://anaconda.org/conda-forge/pytorch-lightning)
 
 <!-- code_chunk_output -->
 
@@ -12,18 +14,15 @@
 
 <!-- /code_chunk_output -->
 
-## Requirements
+## Dependencies
 ```
 $ pip install -r requirements.txt
 ```
 
-## Usage
+## Docker for Jupyter Lab
 ```
 $ docker-compose up -d
 ```
-
-## Kaggle
-https://www.kaggle.com/iabhishekofficial/mobile-price-classification
 
 ## Organization
 
@@ -45,16 +44,5 @@ https://www.kaggle.com/iabhishekofficial/mobile-price-classification
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                               generated with `pip freeze > requirements.txt`
   ```
-
-## DAGSHUB
-```
-fds add model data logs
-dvc add model
-
-dvc commit -f model.dvc
-git add model.dvc logs/metrics.csv logs/params.yml
-git commit -m ""
-```  
-
 
 ## Acknowledgements
