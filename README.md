@@ -1,4 +1,4 @@
-# Simple Data Science Example
+# simpe-data-science-notebook
 https://dagshub.com/fukasawat78/simple-data-science-example
 
 <!-- code_chunk_output -->
@@ -6,7 +6,6 @@ https://dagshub.com/fukasawat78/simple-data-science-example
 * [Dependencies](#Dependencies)
 * [JupyterLab](#JupyterLab)
 * [Organization](#Organization)
-* [Acknowledgement](#Acknowledgement)
 
 <!-- /code_chunk_output -->
 
@@ -23,7 +22,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  simple-data-science-examples/
+  simple-data-science-notebook/
     │
     ├── .gitignore
     ├── .dvcignore
@@ -40,5 +39,3 @@ $ docker-compose up -d
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                               generated with `pip freeze > requirements.txt`
   ```
-
-## Acknowledgements
