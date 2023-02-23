@@ -1,5 +1,4 @@
 # simpe-data-science-notebook
-https://dagshub.com/fukasawat78/simple-data-science-example
 
 <!-- code_chunk_output -->
 
