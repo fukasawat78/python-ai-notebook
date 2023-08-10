@@ -1,4 +1,4 @@
-# simpe-data-science-notebook
+# simpe-ml-notebook
 
 <!-- code_chunk_output -->
 
@@ -21,7 +21,7 @@ $ docker-compose up -d
 ## Organization
 
   ```
-  simple-data-science-notebook/
+  simple-ml-notebook/
     │
     ├── .gitignore
     ├── .dvcignore
