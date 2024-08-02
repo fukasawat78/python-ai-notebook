@@ -1,4 +1,4 @@
-# [Simpe-ML-Notebook](https://dagshub.com/fukasawat78/simple-ml-notebook)
+# [simpe-ml-notebook](https://dagshub.com/fukasawat78/simple-ml-notebook)
 
 <!-- code_chunk_output -->
 
